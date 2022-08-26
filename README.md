@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saisid123
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python and machine language
+- 👀 I’m interested in machine learning
+- 🌱 I’m pursuing Master's in Computer Science at Northwest Missouri State University
 - 💞️ I’m looking to collaborate on AI models
 - 📫 How to reach me saikumarsiddagoni154@gmail.com
 
